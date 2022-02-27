@@ -15,4 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunidhi-thakur&show_icons=true&locale=en&layout=compact" alt="sunidhi-thakur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunidhi-thakur&show_icons=true&locale=en" alt="sunidhi-thakur" /></p>
