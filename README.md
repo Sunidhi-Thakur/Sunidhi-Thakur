@@ -1,9 +1,9 @@
  <h1 align="center">Hi 👋,
         I'm Sunidhi</h1>
-    <p align="left"><img
+<!--     <p align="left"><img
             src="https://komarev.com/ghpvc/?username=sunidhi-thakur&label=Profile%20views&color=0e75b6&style=flat"
-            alt="sunidhi-thakur" /></p>- 📫 How to reach me **sunidhi21thakur@gmail.com** <h3 align="left">Connect with
-        me:</h3>
+            alt="sunidhi-thakur" /></p>- 📫 How to reach me **sunidhi21thakur@gmail.com** -->
+            <h3 align="left">Connect with me:</h3>
     <p align="left"><a href="https://linkedin.com/in/sunidhi-thakur" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="sunidhi-thakur" height="30" width="40" /></a><a href="https://instagram.com/sunidhi__thakur_"
